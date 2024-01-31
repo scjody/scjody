@@ -3,8 +3,8 @@ Professionally, I work as a software developer. I have a lot of experience with 
 I also build things for fun, including interactive digital art!
  * 🔥 [Fire Tetris](https://miaoulabs.com/) is my biggest and most impressive project. Its code, and some related projects that use the same Flamepixel panels, live in the [MIAOU Labs](https://github.com/miaoulabs) organization.
  * 📌 I've pinned a few smaller art projects below!
- * 🚇 [Node Computing](https://github.com/scjody/node) is my current art focus, intended to be exhibited at at event at [LESPACEMAKER](https://www.lespacemaker.com/en/) in fall 2024.
-I don't do spoilers so don't ask me to explain what it is!
+ * 🚇 [Node Computing](https://github.com/scjody/node) is my current art focus. I aim to create a compelling, interactive experience by integrating custom software and a fine-tuned Machine Learning model with bespoke hardware designed from first principles. I aim to have this ready for a public event (Pandemonium V) at [LESPACEMAKER](https://www.lespacemaker.com/en/) in fall 2024.
+I don't do spoilers so don't ask me to explain what it is beyond this!
 
 Here are a few open source projects from my time at [Plotly](https://plotly.com/):
 * 🔐 [Security work on plotly.js](https://github.com/plotly/plotly.js/pulls?q=is%3Apr+author%3Ascjody)
