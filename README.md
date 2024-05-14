@@ -1,7 +1,7 @@
 Professionally, I work as a software developer. I have a lot of experience with backend development, High Performance Computing (HPC), and Site Reliability Engineering (SRE), and a a not-so-secret past working on the Linux kernel (filesystems and FireWire).
 
 I also build things for fun, including interactive digital art!
- * 🔥 [Fire Tetris](https://miaoulabs.com/) is my biggest and most impressive project. Its code, and some related projects that use the same Flamepixel panels, live in the [MIAOU Labs](https://github.com/miaoulabs) organization.
+ * 🔥 [Fire Tetris](https://miaoulabs.com/) is my biggest and most impressive art project. Its code, and some related projects that use the same Flamepixel panels, live in the [MIAOU Labs](https://github.com/miaoulabs) organization.
  * 📌 I've pinned a few smaller art projects below!
  * 🚇 [Node Computing](https://github.com/scjody/node) is my current art focus. I aim to create a compelling, interactive experience by integrating custom software and a fine-tuned Machine Learning model with bespoke hardware designed from first principles. I aim to have this ready for a public event (Pandemonium V) at [LESPACEMAKER](https://www.lespacemaker.com/en/) in fall 2024.
 I don't do spoilers so don't ask me to explain what it is beyond this!
