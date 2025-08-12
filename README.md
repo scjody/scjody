@@ -2,9 +2,11 @@ Professionally, I work as a software developer. I have a lot of experience with 
 
 I also build things for fun, including interactive digital art!
  * 🔥 [Fire Tetris](https://miaoulabs.com/) is my biggest and most impressive art project. Its code, and some related projects that use the same Flamepixel panels, live in the [MIAOU Labs](https://github.com/miaoulabs) organization.
- * 📌 I've pinned a few smaller art projects below!
- * 🚇 [Node Computing](https://github.com/scjody/node) is my current art focus. I aim to create a compelling, interactive experience by integrating custom software and a fine-tuned Machine Learning model with bespoke hardware designed from first principles. I aim to have this ready for a public event (Pandemonium V) at [LESPACEMAKER](https://www.lespacemaker.com/en/) in fall 2024.
-I don't do spoilers so don't ask me to explain what it is beyond this!
+ * The [Pink Pulsating Pancreas](https://github.com/scjody/pancreas?tab=readme-ov-file#pink-pulsating-pancreas) was a scale model of a human pancreas, designed to be entertaining and educational.
+ * [Accueil](https://gitlab.com/scjody/accueil) is a loon-based game played by scanning physical artifacts, written for [a party we hosted](https://modernduck.com/2024/11/accueil/).
+ * [Greetings](https://modernduck.com/2023/11/greetings/) was an art experience with [supporting software](https://github.com/scjody/greetings).
+ * [Lumière Intense Générant Hallucinations Tigrées](https://github.com/scjody/light) was an Arduino-based DMX lighting controller designed to flash lights in strobe patterns to explore ganzfield spaces, imaginary colours, and other quirks of the human visual cortex!
+ * [Dolphin](https://github.com/scjody/dolphin) was a Kinect-based installation with orcas! 🐬
 
 Here are a few open source projects from my time at [Plotly](https://plotly.com/):
 * 🔐 [Security work on plotly.js](https://github.com/plotly/plotly.js/pulls?q=is%3Apr+author%3Ascjody)
